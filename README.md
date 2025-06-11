@@ -4,11 +4,9 @@
 
 ## ▶️ How to Run
 
-1. Download zip file and open the `Q1_ImmediateMode.sln` file in **Visual Studio**.
-2. Make sure the paths to `include/`, `lib/`, and `bin/` are correctly linked in the project settings.
-3. Build and run the project.
-4. The application will render a Stanford Bunny using **OpenGL Immediate Mode**.
-5. The window title displays the current FPS.
+1. Download and unzip the project folder.
+2. Open CGassignment8_Q1.sln in Visual Studio.
+3. Build and run CGassignment8_Q1.cpp.
 
 ---
 
